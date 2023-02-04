@@ -38,7 +38,7 @@ Just graduated from Herzing College for Programmer Analyst. I really enjoy Web D
 <div width="100%" align="center" >
   <a href="https://github.com/JeanLoupD/team_php_project" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLoupD&repo=team_php_project&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&locale=en"style="max-width: 100%;height: 125px;" /></a>
   
-  <a href="https://github.com/JeanLoupD/html_project" align="right"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLoupD&repo=html_project&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a></div>
+  <a href="https://github.com/JeanLoupD/html_project" align="left"><img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLoupD&repo=html_project&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&locale=en" style="max-width: 100%;height: 125px;" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
 
