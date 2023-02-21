@@ -8,7 +8,7 @@ Just graduated from Herzing College for Programmer Analyst. I really enjoy Web D
 
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [jean.loup.davidson@gmail.com](mailto:jean.loup.davidson@gmail.com)
-* 🧠  I'm learning Javascript on freecodecamp
+* 🧠  I'm learning Javascript on the odin project
 
 ### Skills
 
