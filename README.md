@@ -1,7 +1,7 @@
 Hi 👋 My name is Jean-Loup Davidson
 ===================================
 
-Software Developer
+Web Developer
 ------------------
 
 Just graduated from Herzing College for Programmer Analyst. I really enjoy Web Development and currently I am practicing and focusing on learning Javascript.
